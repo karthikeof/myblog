@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 0E5B-5BFE
+
+ Directory of D:\myblog
+
+03/14/2018  07:35 PM    <DIR>          .
+03/14/2018  07:35 PM    <DIR>          ..
+03/14/2018  07:35 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  11,234,123,776 bytes free
